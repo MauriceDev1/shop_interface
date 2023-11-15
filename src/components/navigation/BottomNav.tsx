@@ -2,9 +2,6 @@ import React, { useState } from 'react'
 import Button from '../general/Button';
 
 function BottomNav() {
-  const [buttons, SetButtons] = useState({
-
-  });
 
   return (
     <div className='w-10/12 bg-gray-100 flex m-auto'>
