@@ -1,14 +1,8 @@
-import Hero from "../components/Hero";
-import BottomNav from "../components/navigation/BottomNav";
-import Nav from "../components/navigation/Nav";
+import HomeLayout from "../layouts/HomeLayout";
 
 function Home() {
   return (
-    <>
-      <Nav />
-      <Hero />
-      <BottomNav />
-    </>
+    <HomeLayout />
   );
 }
 

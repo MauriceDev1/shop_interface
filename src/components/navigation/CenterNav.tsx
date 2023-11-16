@@ -1,9 +1,9 @@
 import React from 'react'
-import IconBox from '../general/IconBox'
+import IconBox from '../common/IconBox'
 
 function CenterNav() {
   return (
-    <div className='w-full bg-red-400 py-10 mt-5 flex gap-6'>
+    <div className='w-full py-10 mt-2 flex gap-6 flex-wrap'>
         <IconBox />
         <IconBox />
         <IconBox />
