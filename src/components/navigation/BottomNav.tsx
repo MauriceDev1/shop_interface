@@ -1,4 +1,5 @@
 import Button from '../general/Button';
+import CenterNav from './CenterNav';
 
 function BottomNav() {
 
@@ -13,6 +14,7 @@ function BottomNav() {
                 <Button title={'Test'} />
                 <Button title={'Test'} />
             </div>
+            <CenterNav />
         </div>
         <div className='w-3/12 bg-gray-300 py-8 h-96'>
             test 2
