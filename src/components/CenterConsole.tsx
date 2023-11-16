@@ -14,7 +14,7 @@ function CenterConsole() {
                 <SliderCenter />
             </div>
         </div>
-        <div className='w-full sm:w-3/12 p-5 border flex flex-col gap-2'>
+        <div className='w-full sm:w-3/12 p-5 border flex flex-col gap-3'>
             <Button title={"link"} />
             <Button title={"link"} />
             <Button title={"link"} />
