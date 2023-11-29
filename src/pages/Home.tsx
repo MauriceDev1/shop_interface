@@ -1,8 +1,8 @@
-import HomeLayout from "../layouts/HomeLayout";
+import CenterConsole from "../components/CenterConsole";
 
 function Home() {
   return (
-    <HomeLayout />
+    <CenterConsole />
   );
 }
 
