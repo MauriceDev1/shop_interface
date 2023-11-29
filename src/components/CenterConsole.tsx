@@ -2,7 +2,7 @@ import SliderCenter from './SliderCenter'
 
 function CenterConsole() {
   return (
-    <div className='w-10/12 m-auto flex flex-wrap py-10'>
+    <div className='w-full xl:w-10/12 m-auto flex flex-wrap py-10'>
         <div className='w-full sm:w-9/12 border-t border-b'>
             <div className='w-full p-5'>
                 <SliderCenter />

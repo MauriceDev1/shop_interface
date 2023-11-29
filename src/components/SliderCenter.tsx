@@ -13,37 +13,37 @@ export default function SliderCenter() {
     {
       id: 1,
       color: "#b6b690",
-      icon: <AccessTime24Regular/>,
+      icon: <AccessTime24Regular className="text-white w-12 h-12"/>,
       label: "KPI's"
     },
     {
       id: 2,
       color: "#debfc6",
-      icon: <MailRead24Regular/>,
+      icon: <MailRead24Regular className="text-white w-12 h-12"/>,
       label: "Dayforce"
     },
     {
       id: 3,
       color: "#d29f91",
-      icon: <Mail24Regular/>,
+      icon: <Mail24Regular className="text-white w-12 h-12"/>,
       label: "Email"
     },
     {
       id: 4,
       color: "#b6b690",
-      icon: <Box24Regular/>,
+      icon: <Box24Regular className="text-white w-12 h-12"/>,
       label: "OneStock"
     },
     {
       id: 5,
       color: "#debfc6",
-      icon: <ShareScreenPerson24Regular/>,
+      icon: <ShareScreenPerson24Regular className="text-white w-12 h-12"/>,
       label: "Fuse/HR"
     },
     {
       id: 6,
       color: "#d29f91",
-      icon: <TaskListSquareAdd24Regular/>,
+      icon: <TaskListSquareAdd24Regular className="text-white w-12 h-12"/>,
       label: "Yoobick"
     }
   ]
